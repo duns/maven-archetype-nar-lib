@@ -1,0 +1,8 @@
+<archetype>
+  <id>maven-archetype-nar-jni</id>
+  <resources>
+    <resource>src/main/include/NativeLib.h</resource>
+    <resource>src/main/c/NativeLib.c</resource>
+    <resource>src/test/c/NativeLibTest.c</resource>
+  </resources>
+</archetype>
